@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    font-family: 'Poppins';
+    background:darkgray;
+
+}
+
+.webgl
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+.container {
+    height: 100vh;
+    /* display: grid; */
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+
